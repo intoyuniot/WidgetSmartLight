@@ -1,0 +1,17 @@
+{
+    "name": "WidgetSmartLight",
+    "version": "1.0.0",
+    "keywords": "Widget,SmartLight",
+    "description": "智能灯应用库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/WidgetSmartLight.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+

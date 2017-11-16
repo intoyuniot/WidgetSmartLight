@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ WidgetSmartLight   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+getLightSwitch  KEYWORD2
+displayLightStatus  KEYWORD2
+control  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
