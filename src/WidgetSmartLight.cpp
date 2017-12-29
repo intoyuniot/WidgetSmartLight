@@ -42,11 +42,11 @@ void WidgetSmartLight::widgetBaseCallBack(uint8_t *payload, uint32_t len)
 {
     if(payload[0] == '1')
     {
-        _switchKey = ON;
+        _switchKey = 1;
     }
     else
     {
-        _switchKey = OFF;
+        _switchKey = 0;
     }
     _EventCb();
 }
